@@ -1,8 +1,5 @@
-Utilizar las capacidades de análisis de datos en un escenario de Negocio a negocio (Business-to-Business)
-Estado: Traducido automáticamente del Inglés
-Traducido automáticamente del Inglés
 
-Como ha estado aprendiendo, los analistas de datos tienen Destrezas analíticas inherentes, lo sepan o no. En otras palabras, los intereses que le han llevado a seguir una carrera como analista de datos crean una base sobre la que se apoyará a lo largo de su carrera. A modo de repaso, estas habilidades son
+Los analistas de datos tienen Destrezas analíticas inherentes, estas habilidades son
 
     Curiosidad
 

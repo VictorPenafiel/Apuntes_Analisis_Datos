@@ -1,22 +1,7 @@
-Datos e instinto visceral
-Estado: Traducido automáticamente del Inglés
-Traducido automáticamente del Inglés
+
 
 Detectives y Analistas de datos tienen mucho en común. Ambos dependen de los hechos y de los indicios para tomar decisiones. Ambos recogen y examinan las pruebas. Ambos hablan con personas que conocen parte de la Historia. Y ambos pueden incluso seguir algunas huellas para ver adónde conducen. Tanto si es detective como si es Analista de datos, su trabajo consiste en seguir los pasos para recopilar y comprender los hechos.   
 
-Los analistas utilizan la toma de decisiones basada en datos y siguen un proceso paso a paso. Ha aprendido que este proceso consta de seis pasos:
-
-    Formular preguntas y definir el problema.
-
-    Preparar los Datos recopilando y almacenando la Información.
-
-    Procese los datos limpiando y comprobando la información.
-
-    Analice los Datos para encontrar Patrones, Relaciones y Tendencias.
-
-    Comparta los Datos con su público.
-
-    Actúe sobre los Datos y utilice los resultados del análisis.
 
 Pero hay otros factores que influyen en el proceso de toma de decisiones. Es posible que haya leído novelas de misterio en las que el detective utilizaba su instinto visceral y seguía una corazonada que le ayudaba a resolver el caso. El instinto visceral es una comprensión intuitiva de algo con poca o ninguna explicación. No siempre es algo consciente; a menudo captamos señales sin darnos cuenta. Simplemente se tiene la "sensación" de que es lo correcto.
 Imagen de una persona frente a un espejo, sonriendo a su reflejo
